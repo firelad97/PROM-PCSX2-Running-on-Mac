@@ -10,7 +10,7 @@ GPU: any AMD, Intel Graphics won't work well
 RAM: at least 8 GB
 
 ## Installation
-Installing PROM on your computer can be find here.
+Installing PROM on your computer can be find [here](https://github.com/firelad97/PROM-PCSX2-Running-on-Mac/wiki/Installing-&-Updating).
 
 ## Known Issues
 
