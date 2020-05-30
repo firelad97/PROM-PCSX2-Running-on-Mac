@@ -5,11 +5,9 @@ PROM is a WINE wrapper still in development intending to run on Mojave and above
 
 ## System Requirements
 
-OS: macOS Mojave/Catalina (64-bit only)
-
-GPU: any AMD, Intel Graphics won't work well
-
-RAM: at least 8 GB
+- OS: macOS Mojave/Catalina (64-bit only)
+- GPU: any AMD, Intel Graphics won't work well
+- RAM: at least 8 GB
 
 ## Installation
 Installing PROM on your computer can be find [here](https://github.com/firelad97/PROM-PCSX2-Running-on-Mac/wiki/Installing-&-Updating).
