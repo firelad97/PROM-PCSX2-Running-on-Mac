@@ -20,3 +20,9 @@ There will be issues that I do not know about yet. Report them in Issues please,
 
 ## Screenshots
 WIP
+
+## Credits / Copyrights
+- Wine for making Windows apps/games happen on Mac/Linux OSes. ([website](https://www.winehq.org/))
+- Thanks Gcenx for his updated version of Wineskin. ([repo](https://github.com/Gcenx/WineskinServer))
+- PCSX2 team for an emulator. ([website](https://pcsx2.net/))
+- Amarante (me) for making PCSX2 happen on Mac.
