@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WS-Installed</key>
+	<array>
+		<string></string>
+		<string>------------------------------------------------------</string>
+		<string>------------------------------------------------------</string>
+		<string>Executing mkdir -p /Users/aidansouthard/Documents/Wine Apps/PROM/Releases/1.1.0-beta/PROM.app/Contents</string>
+		<string>msxml3</string>
+		<string>Using winetricks 20200412-next - sha256sum: c629559bdb4cca7926b7b4c2ddc819057355b291337f9b330e3558ef78dfbd4d with wine-4.12.1 and WINEARCH=win64</string>
+		<string>w_workaround_wine_bug-26925</string>
+		<string>warning: taskset/cpuset not available on your platform!</string>
+		<string>You are using a 64-bit WINEPREFIX. Note that many verbs only install 32-bit versions of packages. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.</string>
+	</array>
+</dict>
+</plist>

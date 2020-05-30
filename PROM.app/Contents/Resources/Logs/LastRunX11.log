@@ -1,0 +1,415 @@
+No X11 Log info when using XQuartz!
+
+Engine Used: WS11WineCX64Bit19.0.1
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro15,1
+      Processor Name: 6-Core Intel Core i7
+      Processor Speed: 2.6 GHz
+      Number of Processors: 1
+      Total Number of Cores: 6
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 9 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 16 GB
+      Boot ROM Version: 1037.100.362.0.0 (iBridge: 17.16.14281.0.0,0)
+
+Graphics/Displays:
+
+    Intel UHD Graphics 630:
+
+      Chipset Model: Intel UHD Graphics 630
+      Type: GPU
+      Bus: Built-In
+      VRAM (Dynamic, Max): 1536 MB
+      Vendor: Intel
+      Device ID: 0x3e9b
+      Revision ID: 0x0000
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2880 x 1800 Retina
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: No
+          Connection Type: Internal
+
+    Radeon Pro 560X:
+
+      Chipset Model: Radeon Pro 560X
+      Type: GPU
+      Bus: PCIe
+      PCIe Lane Width: x8
+      VRAM (Total): 4 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x67ef
+      Revision ID: 0x00c2
+      ROM Revision: 113-C980AL-075
+      VBIOS Version: 113-C97501U-005
+      EFI Driver Version: 01.A1.075
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+
+Engine Used: WS11WineCX64Bit19.0.1
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro15,1
+      Processor Name: 6-Core Intel Core i7
+      Processor Speed: 2.6 GHz
+      Number of Processors: 1
+      Total Number of Cores: 6
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 9 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 16 GB
+      Boot ROM Version: 1037.100.362.0.0 (iBridge: 17.16.14281.0.0,0)
+
+Graphics/Displays:
+
+    Intel UHD Graphics 630:
+
+      Chipset Model: Intel UHD Graphics 630
+      Type: GPU
+      Bus: Built-In
+      VRAM (Dynamic, Max): 1536 MB
+      Vendor: Intel
+      Device ID: 0x3e9b
+      Revision ID: 0x0000
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2880 x 1800 Retina
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: No
+          Connection Type: Internal
+
+    Radeon Pro 560X:
+
+      Chipset Model: Radeon Pro 560X
+      Type: GPU
+      Bus: PCIe
+      PCIe Lane Width: x8
+      VRAM (Total): 4 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x67ef
+      Revision ID: 0x00c2
+      ROM Revision: 113-C980AL-075
+      VBIOS Version: 113-C97501U-005
+      EFI Driver Version: 01.A1.075
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+
+Engine Used: WS11WineCX64Bit19.0.1
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro15,1
+      Processor Name: 6-Core Intel Core i7
+      Processor Speed: 2.6 GHz
+      Number of Processors: 1
+      Total Number of Cores: 6
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 9 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 16 GB
+      Boot ROM Version: 1037.100.362.0.0 (iBridge: 17.16.14281.0.0,0)
+
+Graphics/Displays:
+
+    Intel UHD Graphics 630:
+
+      Chipset Model: Intel UHD Graphics 630
+      Type: GPU
+      Bus: Built-In
+      VRAM (Dynamic, Max): 1536 MB
+      Vendor: Intel
+      Device ID: 0x3e9b
+      Revision ID: 0x0000
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2880 x 1800 Retina
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: No
+          Connection Type: Internal
+
+    Radeon Pro 560X:
+
+      Chipset Model: Radeon Pro 560X
+      Type: GPU
+      Bus: PCIe
+      PCIe Lane Width: x8
+      VRAM (Total): 4 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x67ef
+      Revision ID: 0x00c2
+      ROM Revision: 113-C980AL-075
+      VBIOS Version: 113-C97501U-005
+      EFI Driver Version: 01.A1.075
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+
+Engine Used: WS11WineCX64Bit19.0.1
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro15,1
+      Processor Name: 6-Core Intel Core i7
+      Processor Speed: 2.6 GHz
+      Number of Processors: 1
+      Total Number of Cores: 6
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 9 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 16 GB
+      Boot ROM Version: 1037.100.362.0.0 (iBridge: 17.16.14281.0.0,0)
+
+Graphics/Displays:
+
+    Intel UHD Graphics 630:
+
+      Chipset Model: Intel UHD Graphics 630
+      Type: GPU
+      Bus: Built-In
+      VRAM (Dynamic, Max): 1536 MB
+      Vendor: Intel
+      Device ID: 0x3e9b
+      Revision ID: 0x0000
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2880 x 1800 Retina
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: No
+          Connection Type: Internal
+
+    Radeon Pro 560X:
+
+      Chipset Model: Radeon Pro 560X
+      Type: GPU
+      Bus: PCIe
+      PCIe Lane Width: x8
+      VRAM (Total): 4 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x67ef
+      Revision ID: 0x00c2
+      ROM Revision: 113-C980AL-075
+      VBIOS Version: 113-C97501U-005
+      EFI Driver Version: 01.A1.075
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+
+Engine Used: WS11WineCX64Bit19.0.1
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro15,1
+      Processor Name: 6-Core Intel Core i7
+      Processor Speed: 2.6 GHz
+      Number of Processors: 1
+      Total Number of Cores: 6
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 9 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 16 GB
+      Boot ROM Version: 1037.100.362.0.0 (iBridge: 17.16.14281.0.0,0)
+
+Graphics/Displays:
+
+    Intel UHD Graphics 630:
+
+      Chipset Model: Intel UHD Graphics 630
+      Type: GPU
+      Bus: Built-In
+      VRAM (Dynamic, Max): 1536 MB
+      Vendor: Intel
+      Device ID: 0x3e9b
+      Revision ID: 0x0000
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2880 x 1800 Retina
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: No
+          Connection Type: Internal
+
+    Radeon Pro 560X:
+
+      Chipset Model: Radeon Pro 560X
+      Type: GPU
+      Bus: PCIe
+      PCIe Lane Width: x8
+      VRAM (Total): 4 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x67ef
+      Revision ID: 0x00c2
+      ROM Revision: 113-C980AL-075
+      VBIOS Version: 113-C97501U-005
+      EFI Driver Version: 01.A1.075
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+
+Engine Used: WS11WineCX64Bit19.0.1
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro15,1
+      Processor Name: 6-Core Intel Core i7
+      Processor Speed: 2.6 GHz
+      Number of Processors: 1
+      Total Number of Cores: 6
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 9 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 16 GB
+      Boot ROM Version: 1037.100.362.0.0 (iBridge: 17.16.14281.0.0,0)
+
+Graphics/Displays:
+
+    Intel UHD Graphics 630:
+
+      Chipset Model: Intel UHD Graphics 630
+      Type: GPU
+      Bus: Built-In
+      VRAM (Dynamic, Max): 1536 MB
+      Vendor: Intel
+      Device ID: 0x3e9b
+      Revision ID: 0x0000
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2880 x 1800 Retina
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: No
+          Connection Type: Internal
+
+    Radeon Pro 560X:
+
+      Chipset Model: Radeon Pro 560X
+      Type: GPU
+      Bus: PCIe
+      PCIe Lane Width: x8
+      VRAM (Total): 4 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x67ef
+      Revision ID: 0x00c2
+      ROM Revision: 113-C980AL-075
+      VBIOS Version: 113-C97501U-005
+      EFI Driver Version: 01.A1.075
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+
+Engine Used: WS11WineCX64Bit19.0.1
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro15,1
+      Processor Name: 6-Core Intel Core i7
+      Processor Speed: 2.6 GHz
+      Number of Processors: 1
+      Total Number of Cores: 6
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 9 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 16 GB
+      Boot ROM Version: 1037.100.362.0.0 (iBridge: 17.16.14281.0.0,0)
+
+Graphics/Displays:
+
+    Intel UHD Graphics 630:
+
+      Chipset Model: Intel UHD Graphics 630
+      Type: GPU
+      Bus: Built-In
+      VRAM (Dynamic, Max): 1536 MB
+      Vendor: Intel
+      Device ID: 0x3e9b
+      Revision ID: 0x0000
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2880 x 1800 Retina
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: No
+          Connection Type: Internal
+
+    Radeon Pro 560X:
+
+      Chipset Model: Radeon Pro 560X
+      Type: GPU
+      Bus: PCIe
+      PCIe Lane Width: x8
+      VRAM (Total): 4 GB
+      Vendor: AMD (0x1002)
+      Device ID: 0x67ef
+      Revision ID: 0x00c2
+      ROM Revision: 113-C980AL-075
+      VBIOS Version: 113-C97501U-005
+      EFI Driver Version: 01.A1.075
+      Automatic Graphics Switching: Supported
+      gMux Version: 5.0.0
+      Metal: Supported, feature set macOS GPUFamily2 v1
+

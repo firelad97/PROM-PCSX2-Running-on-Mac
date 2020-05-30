@@ -1,0 +1,7 @@
+; File generated automatically from /Users/gcenx/Downloads/CROSSOVER19.0.1/sources/wine/./dlls/shfolder/shfolder.spec; do not edit!
+
+LIBRARY shfolder.dll
+
+EXPORTS
+  SHGetFolderPathA@20=shell32.SHGetFolderPathA @1
+  SHGetFolderPathW@20=shell32.SHGetFolderPathW @2

@@ -1,0 +1,20 @@
+warning: taskset/cpuset not available on your platform!
+Executing mkdir -p /Users/aidansouthard/Documents/Wine Apps/PROM/Releases/1.1.0-beta/PROM.app/Contents
+------------------------------------------------------
+You are using a 64-bit WINEPREFIX. Note that many verbs only install 32-bit versions of packages. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+------------------------------------------------------
+Using winetricks 20200412-next - sha256sum: c629559bdb4cca7926b7b4c2ddc819057355b291337f9b330e3558ef78dfbd4d with wine-4.12.1 and WINEARCH=win64
+Executing w_do_call msxml3
+Executing mkdir -p /Users/aidansouthard/Documents/Wine Apps/PROM/Releases/1.1.0-beta/PROM.app/Contents
+------------------------------------------------------
+You are using a 64-bit WINEPREFIX. Note that many verbs only install 32-bit versions of packages. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+------------------------------------------------------
+Executing load_msxml3 
+Using native override for following DLLs: msxml3
+Executing wine32on64 regedit /S C:\windows\Temp\override-dll.reg
+Executing wine64 regedit /S C:\windows\Temp\override-dll.reg
+Executing cd /Users/aidansouthard/.cache/winetricks/msxml3
+------------------------------------------------------
+Working around wine bug 26925 -- Forcing quiet install
+------------------------------------------------------
+Executing wine32on64 msiexec /i msxml3.msi /q

@@ -1,0 +1,9 @@
+; File generated automatically from /Users/gcenx/Downloads/CROSSOVER19.0.1/sources/wine/dlls/compstui/compstui.spec; do not edit!
+
+LIBRARY compstui.dll
+
+EXPORTS
+  CommonPropertySheetUIA @1
+  CommonPropertySheetUIW @2
+  GetCPSUIUserData @3
+  SetCPSUIUserData @4

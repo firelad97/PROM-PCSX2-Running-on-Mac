@@ -1,0 +1,6 @@
+; File generated automatically from /Users/gcenx/Downloads/CROSSOVER19.0.1/sources/wine/dlls/dwrite/dwrite.spec; do not edit!
+
+LIBRARY dwrite.dll
+
+EXPORTS
+  DWriteCreateFactory @1
