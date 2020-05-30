@@ -12,9 +12,9 @@ PROM is a WINE wrapper still in development intending to run on Mojave and above
 ## Installation
 Installing PROM on your computer can be find [here](https://github.com/firelad97/PROM-PCSX2-Running-on-Mac/wiki/Installing-&-Updating).
 
-## Known Issues
+## Known Issues & FAQs
 
-- As security is no longer an issue, the wrapper still is not digitally signed. So the error "PROM.app is damage" still exists. The only workaround to this is to disable Gatekeeper for each time you download a new version of PROM.app before enabling it again.
+It can be found [here](https://github.com/firelad97/PROM-PCSX2-Running-on-Mac/wiki/Known-Issues-&-FAQs).
 
 There will be issues that I do not know about yet. Report them in Issues please, thank you!
 
