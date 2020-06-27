@@ -3,6 +3,8 @@
 
 PROM is a WINE wrapper still in development intending to run on Mojave and above. Very, very slow development.
 
+#PROM is currently on hiatus as of 6/26/2020 until I get the new computer. I apologize for the inconvenience this may cause (including for not responding to your messages)!
+
 ## System Requirements
 
 - OS: macOS Mojave/Catalina (64-bit only)
